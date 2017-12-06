@@ -69,4 +69,5 @@ Git par la pratique
 * Chakib,
 * baptiste chene,
 * Aghiles TIGHRINE,
-* Charlys Retita.
+* Charlys Retita,
+* CharlysBis RetitaBis.
