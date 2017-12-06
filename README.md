@@ -65,7 +65,8 @@ Git par la pratique
 
 
 * Chakib BOUABD,
-* Yaaqoub SEMLALI
-* Chakib
-* baptiste chene
-* Aghiles TIGHRINE
+* Yaaqoub SEMLALI,
+* Chakib,
+* baptiste chene,
+* Aghiles TIGHRINE,
+* Charlys Retita.
